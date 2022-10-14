@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  margin-bottom: 30px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px 20px;
+  background-color: tomato;
+  color: #fff;
+  border-radius: 5px;
+}
